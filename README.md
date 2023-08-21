@@ -16,7 +16,8 @@ This repository contains an interactive HR analytics dashboard created using Pow
 
 **Instructions for Viewing the Dashboard:**
 1. Clone or download the repository.
-2. Open the `HR_Analytics_Dashboard.pbix` file using Power BI Desktop.
+2. Open the `IBM-People Analytics-Dashboard
+.pbix` file using Power BI Desktop.
 3. Interact with the dashboard visuals to explore the HR analytics insights.
 4. Custom measures and KPIs will be displayed on card visuals.
 5. Utilize slicers to filter data based on specific criteria such as gender, education, department, profession, and age group.
@@ -36,4 +37,3 @@ This repository contains an interactive HR analytics dashboard created using Pow
 - The dataset used in this project is provided by IBM and can be found on Kaggle: [Link to Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 - Power BI by Microsoft
 
-For detailed information on setting up, customizing, and sharing the dashboard, please refer to the comprehensive README provided in this repository.
