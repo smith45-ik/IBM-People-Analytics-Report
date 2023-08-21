@@ -23,7 +23,7 @@ This repository contains an interactive HR analytics dashboard created using Pow
 5. Utilize slicers to filter data based on specific criteria such as gender, education, department, profession, and age group.
 
 **Dashboard Preview:**
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](images/IBM_HR_report_image.png)
 
 
 **Contributors:**
